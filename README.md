@@ -1,2 +1,2 @@
 # term_msngr
-An in-terminal messenger project
+Easy messenger project, using terminal commands with argparse.
